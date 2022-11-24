@@ -19,3 +19,14 @@ body {
   padding: 30px;
   border-radius: 5px;
 }
+
+.marginbottom {
+  margin-bottom: 25%;
+}
+
+.margintop {
+  margin-top: 20%;
+}
+.textfooter {
+  padding-left: 50px;
+}
